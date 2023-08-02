@@ -1,6 +1,7 @@
 import subprocess
 
 ip_address = "192.168.43.138"
+network_drive = "/home/idrisfallout/Documents/network_storage"
 
 def ping():
     try:
@@ -35,7 +36,6 @@ def mount_network_drive(mount_point):
         print(f"Error: Failed to mount {mount_point}. Error: {e}")
 
 def main():
-    network_drive = "/home/idrisfallout/Documents/network_storage"
     if not ping():
         print(f"Network share not reachable: {ip_address}")
         return
