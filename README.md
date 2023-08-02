@@ -1,6 +1,6 @@
 # CheckNetworkStorage
 The script in this project is meant to auto-mount a windows network drive to a raspberry pi storage devices. It also handles disconnection to this network drive.
-Using rasbian crontabs `crontab -e` the script is run every minute to check if the network drive is mounted. If it is not mounted, it will attempt to mount it. If it is mounted, it will check if it is still connected. If it is not connected, it will attempt to unmount it.
+Using rasbian crontabs `crontab -e` the script is run every minute to check if the network drive is mounted. If it is not mounted, it will attempt to mount it. If it is mounted, it will check if it is still connected. If it is not connected, it will simply ignore.
 
 Nevertheless, you need to have added your network drive to the fstab file `/etc/fstab`. You can do this by appending the following line to the fstab file:
 ```
