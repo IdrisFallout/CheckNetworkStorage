@@ -1,7 +1,7 @@
 import subprocess
 
 ip_address = "192.168.43.138"
-network_drive = "/home/idrisfallout/Documents/network_storage"
+network_drive = "/mnt/network_storage"
 
 def ping():
     try:
