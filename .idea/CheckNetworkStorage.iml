@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Remote Python 3.9.2 (sftp://idrisfallout@192.168.43.9:22/home/idrisfallout/Documents/Python Codes/CheckNetworkStorage/bin/python) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.9.2 (sftp://idrisfallout@raspberrypi.local:22/home/idrisfallout/Documents/Python Codes/CheckNetworkStorage/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

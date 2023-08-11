@@ -1,6 +1,6 @@
 import subprocess
 
-ip_address = "192.168.43.138"
+ip_address = "DESKTOP-TLER9HA.local"
 network_drive = "/mnt/network_storage"
 
 def ping():

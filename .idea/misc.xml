@@ -3,5 +3,5 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.2 (sftp://idrisfallout@192.168.43.9:22/home/idrisfallout/Documents/Python Codes/CheckNetworkStorage/bin/python) (2)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.2 (sftp://idrisfallout@raspberrypi.local:22/home/idrisfallout/Documents/Python Codes/CheckNetworkStorage/bin/python)" project-jdk-type="Python SDK" />
 </project>
